@@ -35,7 +35,7 @@ nav .boho-logo {
 /* Hero */ 
 
 .hero {
-    background: linear-gradient(0deg, rgba(161, 149, 42, 0.3), rgba(170, 101, 44, 0.3)), url("../assets/Furniture-hero-1.jpeg");
+    background: linear-gradient(0deg, rgba(161, 149, 42, 0.3), rgba(170, 101, 44, 0.3)), url("../Assets/Furniture-hero-1.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
