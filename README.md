@@ -5,7 +5,7 @@ A landing page website for a furniture store, featuring their upcoming sale.
 [Courtney Province Quintero](http://www.linkedin.com/in/courtney-province-quintero)
 
 # Installation
-[Download from Githubg](https://github.com/prvca/Raborn-Landing-Page.git)
+[Download from Github](https://github.com/prvca/Raborn-Landing-Page.git)
 
 # Live Site
 A live demo site is available via this [link](https://prvca.github.io/Raborn-Landing-Page/)
