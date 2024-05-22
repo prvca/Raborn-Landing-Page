@@ -5,7 +5,10 @@ A landing page website for a furniture store, featuring their upcoming sale.
 [Courtney Province Quintero](http://www.linkedin.com/in/courtney-province-quintero)
 
 # Installation
-Download from Github: 
+[Download from Githubg](https://github.com/prvca/Raborn-Landing-Page.git)
+
+# Live Site
+A live demo site is available via this [link](https://prvca.github.io/Raborn-Landing-Page/)
 
 # Approach
 My approach was a landing page with a basic nav, a hero element, footer, and three main sections: the sale countdown, product carousel, and email subscription form.
